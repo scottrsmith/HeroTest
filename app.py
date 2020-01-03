@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os
 from flask import Flask
 from models import setup_db
